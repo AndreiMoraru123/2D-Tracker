@@ -1,5 +1,5 @@
 # ObjectTracking
-Linear, extended and Unscented Kalman filter models for tracking the movement of an object in 2D interactive game in MATLAB
+Linear, extended and unscented Kalman filter models for tracking the movement of an object in 2D interactive game in MATLAB
 
 Linear Kalman filter estimator for a linear trajectory:
 Lqr/Place were userd alternatively to actuate the sharks movement based on the estimations 
