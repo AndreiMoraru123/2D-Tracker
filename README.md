@@ -2,7 +2,7 @@
 Linear, extended and unscented Kalman filter models for tracking the movement of an object in 2D interactive game in MATLAB
 
 Linear Kalman filter estimator for a linear trajectory:
-Lqr/Place were userd alternatively to actuate the sharks movement based on the estimations 
+Lqr/Place were used alternatively to actuate the shark's movement based on the estimations 
 
 
 ![lkf](https://user-images.githubusercontent.com/81184255/179504407-11330108-6403-45d3-b3c5-dfb5a9cc735d.gif)
@@ -30,7 +30,7 @@ EKF may diverge due to wrong derivative approximation:
 ![div](https://user-images.githubusercontent.com/81184255/179504661-1c1b513a-3f33-4f23-9dff-e86f4d63f3b3.gif)
 
 
-Unscented Kalman filter for the most non linear random movement scenario proves to be a better solution:
+The Unscented Kalman filter for the most non linear random movement scenario proves to be a better solution:
 
 ![ukf](https://user-images.githubusercontent.com/81184255/179505178-7f32fcec-e6ec-4733-8cf6-e39c13a4b20b.gif)
 
