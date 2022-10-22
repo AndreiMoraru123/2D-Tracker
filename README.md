@@ -7,11 +7,12 @@ Lqr/Place were used alternatively to actuate the shark's movement based on the e
 
 ![lkf](https://user-images.githubusercontent.com/81184255/179504407-11330108-6403-45d3-b3c5-dfb5a9cc735d.gif)
 
-<img src="https://user-images.githubusercontent.com/81184255/179504407-11330108-6403-45d3-b3c5-dfb5a9cc735d.gif" width="700" height="500"/>
 
 ### Performances: 
 
 ![image](https://user-images.githubusercontent.com/81184255/179503846-05b4d593-51a2-436c-98bc-dd6b6af85c88.png)
+
+<img src="https://user-images.githubusercontent.com/81184255/179503846-05b4d593-51a2-436c-98bc-dd6b6af85c88.png)" width="250" height="250"/>
 
 ![image](https://user-images.githubusercontent.com/81184255/179503891-f7fc30a7-4693-4df2-b92d-ecbdb5cace05.png)
 
