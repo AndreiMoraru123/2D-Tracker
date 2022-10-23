@@ -1,4 +1,4 @@
-# Can you outrun the big bad ***Kalman filter*** ?
+# Can you outrun the Big Bad ***Kalman filter*** ?
 
 Some linear, extended and unscented movement tracking models, with a fun twist
 
