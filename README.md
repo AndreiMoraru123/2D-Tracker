@@ -3,7 +3,7 @@
 Some linear, extended and unscented movement tracking models, with a fun twist
 
 ## Noob level: defeat the linear Kalman filter
-#### The shark can only chase you in a linear fashion
+#### The ___Shark___ can only chase you in a linear fashion
 
 ![lkf](https://user-images.githubusercontent.com/81184255/179504407-11330108-6403-45d3-b3c5-dfb5a9cc735d.gif)
 
@@ -15,7 +15,7 @@ Some linear, extended and unscented movement tracking models, with a fun twist
 
 
 ## Experienced: defeat the extended Kalman filter
-#### The shark is getting help from a Seagull whose eyesight acts like a active sensor for detecting your non-linear movements
+#### The shark is getting help from a ___Seagull___ whose eyesight acts like a active sensor for detecting your non-linear movements
 
 ![ekf](https://user-images.githubusercontent.com/81184255/179504427-cc6f5939-fa04-4080-9bfa-3db62bc611ab.gif)
 
@@ -32,7 +32,7 @@ Some linear, extended and unscented movement tracking models, with a fun twist
 
 ## Legendary: defeat the unscented Kalman filter (and enter Valhalla (probably, I don't make the rules))
 
-#### No more linear covariance transforms, the shark has unlocked the ___Unscented transform___ ability
+#### No more linear covariance transforms, the ___Shark___ has unlocked the ___Unscented Transform___ ability
 
 ![ukf](https://user-images.githubusercontent.com/81184255/179505178-7f32fcec-e6ec-4733-8cf6-e39c13a4b20b.gif)
 
@@ -42,7 +42,7 @@ Some linear, extended and unscented movement tracking models, with a fun twist
 
 ![image](https://user-images.githubusercontent.com/81184255/179505261-c53bde8e-b01c-4662-8f11-44aba3ce3f2b.png)
 
-## Yes, you control the seal, [this is how](https://github.com/AndreiMoraru123/SensorFusion)
+## Yes, ___you___ control the ___Seal___, [this is how](https://github.com/AndreiMoraru123/SensorFusion)
 
 ## How this ___madness___ was designed:
 
