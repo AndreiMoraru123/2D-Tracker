@@ -54,7 +54,7 @@ Some linear, extended and unscented movement tracking models, with a fun twist
 
 ### and if you made it this far...
 
-#### here is the whole thing explained in detail:
+#### here is the whole thing explained in detail (Vampire language):
 
 [OneFilterToRuleThemAll.pdf](https://github.com/AndreiMoraru123/ObjectTracking/files/9847220/OneFilterToRuleThemAll.pdf)
 
