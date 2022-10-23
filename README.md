@@ -50,9 +50,9 @@ Some linear, extended and unscented movement tracking models, with a fun twist
 
 ![image](https://user-images.githubusercontent.com/81184255/197408420-c3ce43d4-9f16-4144-a9f6-a521eda4e074.png)
 
-### and if you made it this far
+### and if you made it this far...
 
-#### here is the whole thing: 
+#### here is the whole thing explained in detail:
 
 [OneFilterToRuleThemAll.pdf](https://github.com/AndreiMoraru123/ObjectTracking/files/9847220/OneFilterToRuleThemAll.pdf)
 
