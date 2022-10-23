@@ -15,7 +15,7 @@ Some linear, extended and unscented movement tracking models, with a fun twist
 
 
 ## Experienced: defeat the extended Kalman filter
-#### The shark is getting help from a ___Seagull___ whose eyesight acts like a active sensor for detecting your non-linear movements
+#### The shark is getting help from a ___Seagull___ whose eyesight acts like an active visual sensor for detecting your non-linear movements
 
 ![ekf](https://user-images.githubusercontent.com/81184255/179504427-cc6f5939-fa04-4080-9bfa-3db62bc611ab.gif)
 
