@@ -1,4 +1,4 @@
-# ObjectTracking
+# Can you outrun the big bad **Kalman filter** ?
 Linear, extended and unscented Kalman filter models for tracking the movement of an object in 2D interactive game in MATLAB
 
 ## Linear Kalman filter estimator for a linear trajectory:
