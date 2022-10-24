@@ -44,7 +44,7 @@ Some linear, extended and unscented movement tracking models, with a fun twist
 
 ## Yes, ___you___ control the ___Seal___, [this is how](https://github.com/AndreiMoraru123/SensorFusion)
 
-## How this ___madness___ was designed:
+### How this ___madness___ was designed:
 
 ![image](https://user-images.githubusercontent.com/81184255/197408389-ee578ee3-afc0-4a37-9849-c39d1b0e351b.png)
 
