@@ -59,7 +59,7 @@ Some linear, extended and unscented movement tracking models, with a fun twist
 ### and engineered:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/81184255/197408420-c3ce43d4-9f16-4144-a9f6-a521eda4e074.png" width="700"/>
+  <img src="https://user-images.githubusercontent.com/81184255/197408420-c3ce43d4-9f16-4144-a9f6-a521eda4e074.png" width="1000"/>
 </p>
 
 ### and if you made it this far...
