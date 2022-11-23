@@ -2,7 +2,7 @@
 
 Some linear, extended and unscented movement tracking models, with a fun twist
 
-## Noob level: defeat the linear Kalman filter
+## ___Noob level___: defeat the linear Kalman filter
 #### The ___Shark___ can only chase you in a linear fashion
 
 <p align="center">
