@@ -6,7 +6,7 @@ Some linear, extended and unscented movement tracking models, with a fun twist
 #### The ___Shark___ can only chase you in a linear fashion
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/81184255/179504407-11330108-6403-45d3-b3c5-dfb5a9cc735d.gif" width="500"/>
+  <img src="https://user-images.githubusercontent.com/81184255/179504407-11330108-6403-45d3-b3c5-dfb5a9cc735d.gif" width="700"/>
 </p>
 
 ### Test each of your runs:
@@ -19,7 +19,7 @@ Some linear, extended and unscented movement tracking models, with a fun twist
 #### The shark is getting help from a ___Seagull___ whose eyesight acts like an active visual sensor for detecting your non-linear movements
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/81184255/179504427-cc6f5939-fa04-4080-9bfa-3db62bc611ab.gif" width="500"/>
+  <img src="https://user-images.githubusercontent.com/81184255/179504427-cc6f5939-fa04-4080-9bfa-3db62bc611ab.gif" width="700"/>
 </p>
 
 ### Measure your performances:
@@ -31,7 +31,7 @@ Some linear, extended and unscented movement tracking models, with a fun twist
 ### Pro tip: You can trick the shark by moving fast in a non-linear manner (so the filter will diverge due to wrong partial derivatives calculation)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/81184255/179504661-1c1b513a-3f33-4f23-9dff-e86f4d63f3b3.gif" width="500"/>
+  <img src="https://user-images.githubusercontent.com/81184255/179504661-1c1b513a-3f33-4f23-9dff-e86f4d63f3b3.gif" width="700"/>
 </p>
 
 ## ___Legendary___: defeat the unscented Kalman filter (and enter Valhalla (probably, I don't make the rules))
@@ -39,7 +39,7 @@ Some linear, extended and unscented movement tracking models, with a fun twist
 #### No more linear covariance transforms, the ___Shark___ has unlocked the ___Unscented Transform___ ability
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/81184255/179505178-7f32fcec-e6ec-4733-8cf6-e39c13a4b20b.gif" width="1000"/>
+  <img src="https://user-images.githubusercontent.com/81184255/179505178-7f32fcec-e6ec-4733-8cf6-e39c13a4b20b.gif" width="700"/>
 </p>
 
 ### And see how far your can get:
