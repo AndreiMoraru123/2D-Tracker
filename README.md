@@ -7,6 +7,10 @@ Some linear, extended and unscented movement tracking models, with a fun twist
 
 ![lkf](https://user-images.githubusercontent.com/81184255/179504407-11330108-6403-45d3-b3c5-dfb5a9cc735d.gif)
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81184255/179504407-11330108-6403-45d3-b3c5-dfb5a9cc735d.gif" width="1000"/>
+</p>
+
 ### Test each of your runs:
 
 ![image](https://user-images.githubusercontent.com/81184255/179503846-05b4d593-51a2-436c-98bc-dd6b6af85c88.png)
