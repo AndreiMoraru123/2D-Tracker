@@ -89,118 +89,14 @@ uiwait(fig);
         type = event.Value;
         switch type
             
-            case "Linear Trajectory"
-                
-                %                 cla(ax);
-                %                 [Seal,X,Y] = innateSealDrawer();
-                %                 [Shark,Xs,Ys] = innateSharkDrawer();
-                %
-                %                 for i = 1:50
-                %                     for j = 1:length(Seal)
-                %                         Seal(j).XData = X{j} + i;
-                %                         Seal(j).YData = Y{j} + i;
-                %                     end
-                %                     for j = 1:length(Shark)
-                %                         Shark(j).YData = Ys{j} + i - (40/i);
-                %                         Shark(j).XData = Xs{j} + i - (160/i);
-                %                     end
-                %
-                %                     if 50/i > 1.5
-                %                         plot(i + randn(),i + randn(),'c+','linew',5, 'Parent',ax)
-                %                     else
-                %                         plot(i + randn(),i + randn(),'.r','MarkerSize',40,'Parent', ax)
-                %                     end
-                %                     pause(0.1)
-                %                 end
-                %
-                %                 cla(ax)
-                %
-                %                 [Seal,X,Y] = innateSealDrawer();
-                %                 for indx = 1:length(X)
-                %                     Seal(indx).XData = X{indx} + 12.5;
-                %                 end
-                %                 [Shark,Xs,Ys] = innateSharkDrawer();
-                %                 for indx = 1:length(Xs)
-                %                     Shark(indx).XData = Xs{indx} - 5;
-                %                 end
-                
+            case "Linear Trajectory"  
                 traj = 'linear';
                 
                 
             case "Circular Trajectory"
-                
-                %                 cla(ax);
-                %                 [Seal,X,Y] = innateSealDrawer();
-                %                 [Shark,Xs,Ys] = innateSharkDrawer();
-                %
-                %                 for i = 1:50
-                %                     for j = 1:length(Seal)
-                %                         Seal(j).XData = X{j} + i * sin(i/20);
-                %                         Seal(j).YData = Y{j} + i * cos(i/20);
-                %                     end
-                %                     for j = 1:length(Shark)
-                %                         Shark(j).YData = Ys{j} + i * cos(i/20) + (25/i);
-                %                         Shark(j).XData = Xs{j} + i * sin(i/20) - (160/i);
-                %                     end
-                %
-                %                     if 100/i > 1.5
-                %                         plot(i * sin(i/20) + randn(),i * cos(i/20) + randn(),'c+','linew',5, 'Parent',ax)
-                %                     else
-                %                         plot(i * sin(i/20) + randn(),i * cos(i/20) + randn(),'.r','MarkerSize',40,'Parent', ax)
-                %                     end
-                %                     pause(0.1)
-                %                 end
-                %
-                %                 cla(ax)
-                %
-                %                 [Seal,X,Y] = innateSealDrawer();
-                %                 for indx = 1:length(X)
-                %                     Seal(indx).XData = X{indx} + 12.5;
-                %                 end
-                %                 [Shark,Xs,Ys] = innateSharkDrawer();
-                %                 for indx = 1:length(Xs)
-                %                     Shark(indx).XData = Xs{indx} - 5;
-                %                 end
-                
                 traj = 'circle';
                 
             case "Random Movement"
-                
-                %                 cla(ax);
-                %                 [Seal,X,Y] = innateSealDrawer();
-                %                 [Shark,Xs,Ys] = innateSharkDrawer();
-                %
-                %                 for i = 1:50
-                %                     rx = randn() * 0.01;
-                %                     ry = randn() * 0.01;
-                %                     for j = 1:length(Seal)
-                %                         Seal(j).XData = X{j} + i * cos(rx);
-                %                         Seal(j).YData = Y{j} + i * sin(ry);
-                %                     end
-                %                     for j = 1:length(Shark)
-                %                         Shark(j).YData = Ys{j} + i * sin(ry) + (25/i);
-                %                         Shark(j).XData = Xs{j} + i * cos(rx) - (160/i);
-                %                     end
-                %
-                %                     if 100/i > 1.5
-                %                         plot(i * cos(rx) + randn(),i * sin(ry) + randn(),'c+','linew',5, 'Parent',ax)
-                %                     else
-                %                         plot(i * cos(rx) + randn(),i * sin(ry) + randn(),'.r','MarkerSize',40,'Parent', ax)
-                %                     end
-                %                     pause(0.1)
-                %                 end
-                %
-                %                 cla(ax)
-                %
-                %                 [Seal,X,Y] = innateSealDrawer();
-                %                 for indx = 1:length(X)
-                %                     Seal(indx).XData = X{indx} + 12.5;
-                %                 end
-                %                 [Shark,Xs,Ys] = innateSharkDrawer();
-                %                 for indx = 1:length(Xs)
-                %                     Shark(indx).XData = Xs{indx} - 5;
-                %                 end
-                
                 traj = 'random';
         end
         
