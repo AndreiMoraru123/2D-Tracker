@@ -103,11 +103,9 @@ classdef QuaternionKalmanFilterModel < handle
         end
         
         function [obj] = initialise(obj, q1Std, q2Std, q3Std, q4Std, a1Std, a2Std, a3Std, a4Std, init_on_measurement, init_q1_std, init_q2_std, init_q3_std, init_q4_std, measurement, varargin)
-%             obj.H = eye(2,4);
             obj.H = eye(4);
             obj.F = eye(4);
             obj.Q = diag([q1Std*q1Std, q2Std*q2Std, q3Std*q3Std, q4Std*q4Std]);
-%             obj.R = diag([a1Std*a1Std, a2Std*a2Std]);
             obj.R = diag([a1Std*a1Std, a2Std*a2Std, a3Std*a3Std, a4Std*a4Std]);
             
             if init_on_measurement == false
@@ -137,44 +135,25 @@ classdef QuaternionKalmanFilterModel < handle
         
         function [obj] = update(obj,measurement)
             
-            P = obj.covariance;
-            
+            P = obj.covariance;         
             X = obj.state';
-            
-%             obj.eulerFromQuat();
-%             
-%             X = obj.attitude_state';
-
             measurement = [measurement; 0];
 
             obj.QuatFromEuler(measurement);
-            
-%             z_hat = [X(1) X(2)];
-
             z_hat = obj.state';
 
             z = obj.measured_state;
-              
-%             z = [measurement(1) measurement(2)];
-          
             y = z - z_hat;
             S = obj.H*P*obj.H' + obj.R;
             K = P*obj.H'/S;
-            
-%             x = [X(1), X(2), X(3), 0];
-%             
-%             x_update = x + (K * y')';
             
             x_update = X + (K * y')';
             P_update = P - K*obj.H*P;
             
             obj.innovation = y;
             obj.innovation_covariance = S;
-%             obj.attitude_state = x_update(1:3)';
-            
+           
             obj.state = x_update';
-            
-%             obj.quatFromEuler();
             
             if ~all(obj.state == 0)
                 obj.normalizeQuat();
