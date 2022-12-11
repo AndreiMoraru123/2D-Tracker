@@ -85,42 +85,31 @@ end
 uiwait(fig);
 
     function changeTraj(src,event,ax,fig)
-        
         type = event.Value;
         switch type
-            
             case "Linear Trajectory"  
                 traj = 'linear';
-                
-                
             case "Circular Trajectory"
-                traj = 'circle';
-                
+                traj = 'circle'; 
             case "Random Movement"
                 traj = 'random';
         end
-        
     end
 
     function changeMode(src,event,ax,fig)
-        
         type = event.Value;
         switch type
-            
             case "Simulation"
                 run_mode = 'simu';
-                
             case "Command Driven"
                 run_mode = 'cmdrive';
         end
-        
     end
 
     function changeFilter(src,event,ax,fig)
-        
         type = event.Value;
+        
         switch type
-            
             case "Linear Kalman Filter"
                 
                 delete(findobj(ax,'type', 'patch'))
@@ -235,18 +224,14 @@ uiwait(fig);
                     Seagull(sgl).XData = Xl{sgl}/2 + 4;
                 end
         end
-        
     end
 
     function playButtonPushed(btn,ax,fig)
-        
         dev_mode = false;
         close(fig)
-        
     end
 
     function devButtonPushed(btn,ax,fig)
-        
         filter_type = 'L';
         lidar = false;
         traj = 'linear';
@@ -254,7 +239,6 @@ uiwait(fig);
         dev_mode = true;
         forced = false;
         close(fig)
-        
     end
 
     function [Seal,x,y] = innateSealDrawer()
@@ -333,7 +317,6 @@ uiwait(fig);
         Seal = [Seal, fill(x12,y12,'k','Parent',ax)];
         x{12} = x12;
         y{12} = y12;
-        
     end
 
     function [Shark,x,y] = innateSharkDrawer()
@@ -442,7 +425,6 @@ uiwait(fig);
         Shark = [Shark, fill(x14,y14,[0.960000 0.760000 0.760000],'Parent',ax)];
         x{14} = x14;
         y{14} = y14;
-        
     end
 
     function [Seagull,x,y] = innateSeagullDrawer()
@@ -538,7 +520,5 @@ uiwait(fig);
         Seagull = [Seagull, fill(x14,y14,wings,'Parent',ax)];
         x{14} = x14;
         y{14} = y14;
-        
     end
-
 end
