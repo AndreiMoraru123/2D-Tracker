@@ -2,6 +2,8 @@
 
 Some linear, extended and unscented movement tracking models, with a fun twist
 
+[![View Object Tracking via Sensor Fusion on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/119448-object-tracking-via-sensor-fusion)
+
 ## ___Noob level___: defeat the linear Kalman filter
 #### The ___Shark___ can only chase you in a linear fashion
 
