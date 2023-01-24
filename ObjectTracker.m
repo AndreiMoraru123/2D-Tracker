@@ -2,14 +2,14 @@ clear; clc; close all;
 
 [dev_mode, filter_type, traj, run_mode, sonar, forced] = TrackerUI();
 
-cd C:\Users\Andrei\Desktop\Licenta+Lucru\Personale\KalmanFilter\MatlabTracker\ObjectTracking\
-d = System.IO.File.GetCreationTime(cd);
-file = dir('ObjectTracker.m');
-creationDateTime = datetime(d.Year, d.Month, d.Day, d.Hour, d.Minute, d.Second);
-fprintf('Welcome to the 2D Shark Chase Simulator \n \n');
-fprintf('Author: Moraru Andrei \n');
-fprintf('Created on: %s \n', datestr(creationDateTime));
-fprintf('Last modified: %s \n\n', file.date);
+% cd C:\Users\Andrei\Desktop\Licenta+Lucru\Personale\KalmanFilter\MatlabTracker\ObjectTracking\
+% d = System.IO.File.GetCreationTime(cd);
+% file = dir('ObjectTracker.m');
+% creationDateTime = datetime(d.Year, d.Month, d.Day, d.Hour, d.Minute, d.Second);
+% fprintf('Welcome to the 2D Shark Chase Simulator \n \n');
+% fprintf('Author: Moraru Andrei \n');
+% fprintf('Created on: %s \n', datestr(creationDateTime));
+% fprintf('Last modified: %s \n\n', file.date);
 
 if strcmpi(run_mode,'cmdrive') == 1
     try
