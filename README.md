@@ -87,6 +87,13 @@ Model Parameters                    |           Filter Tuning             |     
   <img src="https://user-images.githubusercontent.com/81184255/204482601-fd1a1090-2fc8-4000-8904-ab36de3ed057.png" width="1000"/>
 </p>
 
+### with the following workflow:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81184255/214928733-5de587ab-4905-4d83-92cb-eb5ba700fc9c.png" width="1000"/>
+</p>
+
+
 ### and if you made it this far...
 
 #### here is the whole thing explained in detail (Vampire language):
