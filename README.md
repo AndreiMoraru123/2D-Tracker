@@ -6,7 +6,9 @@ Some linear, extended and unscented movement tracking Kalman filters, with a fun
 
 ![image](https://user-images.githubusercontent.com/81184255/214925122-42760297-bee4-46b9-b61c-1654a0afe73a.png)
 
-Run `ObjectTracker.m` and make sure all files are in the same directory. Set your scenarios using the dropdowns. Press `Play` and enjoy :-)
+Run `ObjectTracker.m` and make sure all files are in the same directory. Set your scenarios using the dropdowns.
+
+Press `Play` and enjoy :-)
 
 Go for `Developer Mode` (button) if you want to generate your custom data and play around with the trackers:
 
