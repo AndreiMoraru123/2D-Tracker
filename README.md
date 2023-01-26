@@ -10,7 +10,7 @@ Run `ObjectTracker.m` and make sure all files are in the same directory. Set you
 
 Press `Play` and enjoy :-)
 
-Go for `Developer Mode` if you want to generate your own custom data and play around with the performance of the trackers:
+Go for `Developer Mode` if you want to generate your own custom data and play around with the trackers:
 
 Model Parameters                    |           Filter Tuning             |         Extra Sensor
 :-------------------------:|:-------------------------:|:-------------------------:
