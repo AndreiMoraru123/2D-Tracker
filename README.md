@@ -4,12 +4,22 @@ Some linear, extended and unscented movement tracking models, with a fun twist
 
 [![View Object Tracking via Sensor Fusion on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/119448-object-tracking-via-sensor-fusion)  
 
+![image](https://user-images.githubusercontent.com/81184255/214925122-42760297-bee4-46b9-b61c-1654a0afe73a.png)
+
 Run `ObjectTracker.m` and make sure all files are in the same directory. Enjoy :-)
+
+Go for `Developer Mode` (button) so that you can set your own parameters and play around with the trackers:
+
+Model Parameters                    |           Filter Tuning             |         Extra Sensor
+:-------------------------:|:-------------------------:|:-------------------------:
+![1](https://user-images.githubusercontent.com/81184255/214925891-7a3f8fea-b96b-4f73-a41d-222dbc60d5d3.jpg) | ![2](https://user-images.githubusercontent.com/81184255/214925912-268b9881-238d-4b7b-843f-9e194c28a961.jpg) | ![3](https://user-images.githubusercontent.com/81184255/214925928-aac2f461-0552-4b74-bc5c-a002825dee9f.jpg)
 
 > **Note** 
 > You can control the Seal, if you own an Arduino + MPU inertial sensors suite, [this is how it works](https://github.com/AndreiMoraru123/SensorFusion).
 
 > To achieve this, you may choose `Command Driven` instead of `Simulation` for the Running Mode.
+
+# Demos
 
 ## ___Noob level___: defeat the linear Kalman filter
 #### The ___Shark___ can only chase you in a linear fashion
