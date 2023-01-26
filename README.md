@@ -78,19 +78,19 @@ Model Parameters                    |           Filter Tuning             |     
 ### engineered:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/81184255/197408420-c3ce43d4-9f16-4144-a9f6-a521eda4e074.png" width="1000"/>
+  <img src="https://user-images.githubusercontent.com/81184255/197408420-c3ce43d4-9f16-4144-a9f6-a521eda4e074.png" width="700"/>
 </p>
 
 ### and programmed:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/81184255/204482601-fd1a1090-2fc8-4000-8904-ab36de3ed057.png" width="1000"/>
+  <img src="https://user-images.githubusercontent.com/81184255/204482601-fd1a1090-2fc8-4000-8904-ab36de3ed057.png" width="700"/>
 </p>
 
 ### with the following workflow:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/81184255/214929046-249645dc-b574-4377-b19d-28b48a4baa23.png" width="1000"/>
+  <img src="https://user-images.githubusercontent.com/81184255/214929046-249645dc-b574-4377-b19d-28b48a4baa23.png" width="700"/>
 </p>
 
 ### and if you made it this far...
