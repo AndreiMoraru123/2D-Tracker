@@ -17,7 +17,7 @@ Model Parameters                    |           Filter Tuning             |     
 ![1](https://user-images.githubusercontent.com/81184255/214925891-7a3f8fea-b96b-4f73-a41d-222dbc60d5d3.jpg) | ![2](https://user-images.githubusercontent.com/81184255/214925912-268b9881-238d-4b7b-843f-9e194c28a961.jpg) | ![3](https://user-images.githubusercontent.com/81184255/214925928-aac2f461-0552-4b74-bc5c-a002825dee9f.jpg)
 
 > **Note** 
-> You can control the Seal, if you own an Arduino + MPU inertial sensors suite, [this is how it works](https://github.com/AndreiMoraru123/SensorFusion).
+> You can control the Seal if you own an Arduino + MPU inertial sensors suite, [this is how it works](https://github.com/AndreiMoraru123/SensorFusion).
 
 > To achieve this, you may choose `Command Driven` instead of `Simulation` for the Running Mode.
 
