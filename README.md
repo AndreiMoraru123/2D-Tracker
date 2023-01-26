@@ -90,9 +90,8 @@ Model Parameters                    |           Filter Tuning             |     
 ### with the following workflow:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/81184255/214928733-5de587ab-4905-4d83-92cb-eb5ba700fc9c.png" width="1000"/>
+  <img src="https://user-images.githubusercontent.com/81184255/214929046-249645dc-b574-4377-b19d-28b48a4baa23.png" width="1000"/>
 </p>
-
 
 ### and if you made it this far...
 
