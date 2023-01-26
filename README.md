@@ -2,6 +2,8 @@
 
 Some linear, extended and unscented movement tracking models, with a fun twist
 
+Run `ObjectTracker.m` and make sure all files are in the same directory (both git commit and zip download should suffice for this).
+
 [![View Object Tracking via Sensor Fusion on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/119448-object-tracking-via-sensor-fusion)  
 
 > **Note** 
