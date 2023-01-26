@@ -8,7 +8,7 @@ Some linear, extended and unscented movement tracking models, with a fun twist
 
 Run `ObjectTracker.m` and make sure all files are in the same directory. Enjoy :-)
 
-Go for `Developer Mode` (button) so that you can set your own parameters and play around with the trackers:
+Go for `Developer Mode` (button) if you want to generate your custom data and play around with the trackers:
 
 Model Parameters                    |           Filter Tuning             |         Extra Sensor
 :-------------------------:|:-------------------------:|:-------------------------:
