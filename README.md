@@ -2,7 +2,12 @@
 
 Some linear, extended and unscented movement tracking models, with a fun twist
 
-[![View Object Tracking via Sensor Fusion on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/119448-object-tracking-via-sensor-fusion)
+[![View Object Tracking via Sensor Fusion on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/119448-object-tracking-via-sensor-fusion)  
+
+> **Note** 
+> You can control the Seal, if you own an Arduino + MPU inertial sensors suite, [this is how it works](https://github.com/AndreiMoraru123/SensorFusion).
+
+> To achieve this, you may choose `Command Driven` instead of `Simulation` for the Running Mode.
 
 ## ___Noob level___: defeat the linear Kalman filter
 #### The ___Shark___ can only chase you in a linear fashion
@@ -49,8 +54,6 @@ Some linear, extended and unscented movement tracking models, with a fun twist
 ![image](https://user-images.githubusercontent.com/81184255/179505243-8ac327ce-0883-43a6-8bb7-53b349e5cd03.png)
 
 ![image](https://user-images.githubusercontent.com/81184255/179505261-c53bde8e-b01c-4662-8f11-44aba3ce3f2b.png)
-
-## Yes, ___you___ control the ___Seal___, [this is how](https://github.com/AndreiMoraru123/SensorFusion)
 
 ### How this ___madness___ was designed:
 
