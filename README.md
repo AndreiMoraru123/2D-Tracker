@@ -37,7 +37,7 @@ Model Parameters                    |           Filter Tuning             |     
 ![image](https://user-images.githubusercontent.com/81184255/179503891-f7fc30a7-4693-4df2-b92d-ecbdb5cace05.png)
 
 ## ___Experienced___: defeat the extended Kalman filter
-#### The ___Shark___ is getting help from a ___Seagull___, whose eyesight acts like a sensor for detecting your non-linear movements
+#### The ___Shark___ is getting help from a ___Seagull___, who acts like a sensor for detecting your non-linear movements
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/81184255/179504427-cc6f5939-fa04-4080-9bfa-3db62bc611ab.gif" width="700"/>
