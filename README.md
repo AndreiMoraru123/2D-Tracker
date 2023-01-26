@@ -49,7 +49,7 @@ Model Parameters                    |           Filter Tuning             |     
 
 ![image](https://user-images.githubusercontent.com/81184255/179504868-80248a3e-bed6-4dbf-b2a3-17997683939a.png)
 
-### Pro tip: You can trick the shark by moving fast in a non-linear manner (so the filter will diverge due to wrong partial derivatives calculation)
+#### Pro tip: You can trick the shark by moving fast in a non-linear manner (so the filter will diverge due to wrong partial derivatives calculation)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/81184255/179504661-1c1b513a-3f33-4f23-9dff-e86f4d63f3b3.gif" width="700"/>
