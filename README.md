@@ -55,7 +55,7 @@ Model Parameters                    |           Filter Tuning             |     
   <img src="https://user-images.githubusercontent.com/81184255/179504661-1c1b513a-3f33-4f23-9dff-e86f4d63f3b3.gif" width="700"/>
 </p>
 
-## ___Legendary___: defeat the unscented Kalman filter (and enter Valhalla (probably, I don't make the rules))
+## ___Legendary___: defeat the unscented Kalman filter
 
 #### No more linear covariance transforms, the ___Shark___ has unlocked the ___Unscented Transform___ ability
 
